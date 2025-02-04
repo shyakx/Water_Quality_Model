@@ -19,7 +19,7 @@ The complete evaluation and insights from all experiments are documented in the 
 ## Summary Table of Model Performance
 | Member | Optimizer | Regularizer | Early Stopping (Patience) | Accuracy | Precision | Recall | F1-Score |
 |--------|-----------|-------------|----------------|----------|------------|--------|----------|
-| Audry  | Adam      | L2 (0.01)    | 10             | 69%      | 0.71       | 0.62   | 0.65     |
-| Member 2 | [Optimizer] | [Regularizer] | [Patience] | [Accuracy] | [Precision] | [Recall] | [F1-Score] |
-| Member 3 | [Optimizer] | [Regularizer] | [Patience] | [Accuracy] | [Precision] | [Recall] | [F1-Score] |
-| Member 4 | [Optimizer] | [Regularizer] | [Patience] | [Accuracy] | [Precision] | [Recall] | [F1-Score] |
+| Audry  | Adam      | L2 (0.01)    | 10             | 69%      | 0.71       | 0.93-class 0 , 0.32-class 1   | 0.65     |
+| Henriete | Adam | L1 (0.01) | 10 | 61% | 0.61  | 1.00-class, 0.00-class 1| 0.76 |
+| Steven | Adam | L2| 5 | 66% | 0.74 class0 , 0.53 class1 | 0.63 - class 0 , 0.65 - class 1 | 0.64 |
+
