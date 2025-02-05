@@ -9,7 +9,7 @@
 The objective of this project is to train and evaluate machine learning models for binary classification using the water_portability dataset . Each team member experimented with different model configurations, optimizers, and regularization techniques to improve performance.
 
 ## Video Demonstration
-[Insert link to the video here]
+[[Watch the video]](https://www.youtube.com/watch?si=0ppSPnKTBLCbvme6&v=C6S2QqaJKQU&feature=youtu.be)
 
 ## Overall Team Evaluation
 The complete evaluation and insights from all experiments are documented in the Google Document below (Please click link) :
